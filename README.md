@@ -77,7 +77,7 @@ Neptium c'est pour moi un énorme projet. Ca me demande un temps considérable. 
 
 **Technologies utilisées?** *Principalement le JavaScript (AdonisJS, Edge, VueJS) et du PHP de temps en temps.*
 
-**Puis-je avoir plus de détails?** *Oui avec plaisir. Le site est neptium.ch.*
+**Puis-je avoir plus de détails?** *Oui avec plaisir. Le site est [neptium.ch](https://www.neptium.ch/fr/).*
 
 ## Liens intéressants
 **[GitHub](https://github.com/CrBast)**
