@@ -3,6 +3,8 @@
 Je suis un junior (back-end) développeur. Je suis actuellement apprentis (4e année) informaticien développeur.
 Je recherche un poste dans le domaine du développement d'application (back-end)
 
+Je suis un junior (back-end) développeur. Je suis une formation d'apprenti informaticien (4e année) pour acquérir un CFC (dévelopement d'applications)
+
 ## A propos
 **Es-tu jeune?** *Oui.*
 
@@ -26,15 +28,15 @@ Je recherche un poste dans le domaine du développement d'application (back-end)
 
 **GitHub? GitLab? Twitter?** *Oui voir tout en bas.*
 
+**Pourais-tu donnes quelques informations sur toi?** *Je suis se qu'on pourrais dire un "`bon vivant`". Je vis ma vie tranquillement. Je passe énormément de temps à améliorer mes compétences dans l'informatique. Je fais beaucoup de sport et j'entraine les futures générations. J'adore jouer au jeux vidéos pour me ressourcer après le boulot.*
+
 **Comment mieux te connaitre?** *Ne pas hésiter à me contacter pas email pour prévoir un appel discord. Ou si vous êtes en Valais, simplement autour d'un petit verre (je paie l'addition).*
 
 **Design?** *Oulala non! Mais je peux vous conseiller un excellent développeur très compétent en design (demande par mail).*
 
-**Faut-il avoir peur de t'engager?** *Oui. Car je ne bois pas de café comme les développeur devraient...*
+**Faut-il avoir peur de t'engager?** *Oui. Car je ne bois pas de café commes tous les dévelopeurs*😁
 
-**Travailler dans une grosse entreprise?** *Pas l'envie, mais si je n'ai pas le choix...*
-
-**Toi en un mot:** *passionné*
+**Toi en un mot:** *Passionné*
 
 ## Compétences
 
@@ -53,12 +55,13 @@ Je recherche un poste dans le domaine du développement d'application (back-end)
 
 #### Général
 
-J'ai dévelopé plusieurs API (REST). Je me débrouille en automatisation (GitLab CICD) et tests unitaire.
+J'ai dévelopé plusieurs APIs (REST). Je me débrouille en automatisation (GitLab CICD) et tests unitaire.
 
-Pour voir mes différents projet : voir ci-dessous (GitHub et GitLab).
+Mes différents projets sont sur mon GitLab et GitHub.
 
 #### Open Source
-J'adore ça. Je participe comme je peux pour plusieurs projets (voir aussi en dessous). 
+J'adore ça. Je participe comme je peux pour plusieurs projets. Si je pouvais travailler dans ce domaine se serait top.
+
 
 ### Langues
 - Français : Bon
