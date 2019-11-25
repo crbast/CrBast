@@ -12,7 +12,7 @@ Je suis un junior (back-end) développeur. Je suis une formation d'apprenti info
 
 **Combien d'années d'expérience?** *0 (4 avec l'apprentissage)*
 
-**Combien d'années d'expérience dirais-tu?** *Selon mon github un peu plus de 2 ans (je ne compte pas mon apprentissage à l'école car...)*
+**Combien d'années d'expérience dirais-tu?** *Selon mon github un peu plus de 2 ans.*
 
 **Suis-je un passionné?** *Je dirais que oui.*
 
@@ -20,11 +20,11 @@ Je suis un junior (back-end) développeur. Je suis une formation d'apprenti info
 
 **Pourquoi me dire que tu n'est pas assez qualifié?** *Car c'est vrais.*
 
-**Pourquoi?** *Car je ne connais pas tout! Et développeur c'est principalement apprendre sur le tas. J'ai l'envie d'apprendre en permanance, c'est ça qui me fait vivre. Et puis après tout qui connais vraiment bien ce que vous voulez...?*
+**Pourquoi?** *Car je ne connais pas tout! Et développeur c'est principalement apprendre sur le tas. J'ai l'envie d'apprendre en permanance, c'est ça qui me fait vivre. Et puis après tout, qui connais vraiment bien ce que vous voulez...?*
 
 **Cherches-tu du travail?** *Absolument (septembre 2020).*
 
-**Où?** *La où quelqu'un veux de moi ;) (si possible UE ou Canada[Besoin d'un VISA])*
+**Où?** *La où quelqu'un veux de moi 😉. Je cherche principalement en Europe (nationalité européenne) ainsi qu'au Quebec (besoin VISA).*
 
 **GitHub? GitLab? Twitter?** *Oui voir tout en bas.*
 
@@ -34,7 +34,7 @@ Je suis un junior (back-end) développeur. Je suis une formation d'apprenti info
 
 **Design?** *Oulala non! Mais je peux vous conseiller un excellent développeur très compétent en design (demande par mail).*
 
-**Faut-il avoir peur de t'engager?** *Oui. Car je ne bois pas de café commes tous les dévelopeurs*😁
+**Faut-il avoir peur de t'engager?** *Oui. Car je ne bois pas de café comme un développeur devrait.*😁
 
 **Toi en un mot:** *Passionné*
 
@@ -44,14 +44,14 @@ Je suis un junior (back-end) développeur. Je suis une formation d'apprenti info
 
 #### Languages
 - NodeJS 
-  - ExpressJS
   - AdonisJS💜
+  - NuxtJS (En train d'apprendre)
 - PHP
   - Pur et dur
 - C#
   - ASP NET
   - WPF
-- GO
+- GO (En train d'apprendre)
 
 #### Général
 
