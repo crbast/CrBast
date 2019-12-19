@@ -1,5 +1,3 @@
-# CrBast
-
 Je suis un junior (back-end) développeur passionné par la programmation et ce qui touche au high tech. Je suis actuellement apprentis (4e année) informaticien développeur.
 
 Je recherche un poste dans le domaine du développement d'application (back-end) pour septembre 2020.
