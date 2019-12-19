@@ -52,12 +52,38 @@ Je suis un junior (back-end) développeur. Je suis une formation d'apprenti info
   - ASP NET
   - WPF
 - GO (En train d'apprendre)
+- SQL (basique)
 
 #### Général
 
 J'ai dévelopé plusieurs APIs (REST). Je me débrouille en automatisation (GitLab CICD) et tests unitaire.
 
 Mes différents projets sont sur mon GitLab et GitHub.
+
+#### Outils
+J'utilise beacoup d'outils différents. Voici une liste pas actégories:
+
+**IDE:**
+- VS Code
+- Visual Studio 2019
+- Suite JetBrains
+
+**Serveur:**
+- XAMPP
+- Laragon
+
+**Hébergeur:**
+- Heroku
+- (Azure)
+
+**Git (DevOps):**
+- GitHub
+- GitLab
+- Azure Repos
+
+**Testing**
+- Insomnia REST
+- Postman
 
 #### Open Source
 J'adore ça. Je participe comme je peux pour plusieurs projets. Si je pouvais travailler dans ce domaine se serait top.
