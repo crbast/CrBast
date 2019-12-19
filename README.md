@@ -3,8 +3,6 @@
 Je suis un junior (back-end) développeur. Je suis actuellement apprentis (4e année) informaticien développeur.
 Je recherche un poste dans le domaine du développement d'application (back-end)
 
-Je suis un junior (back-end) développeur. Je suis une formation d'apprenti informaticien (4e année) pour acquérir un CFC (dévelopement d'applications)
-
 ## A propos
 **Es-tu jeune?** *Oui.*
 
@@ -28,15 +26,15 @@ Je suis un junior (back-end) développeur. Je suis une formation d'apprenti info
 
 **GitHub? GitLab? Twitter?** *Oui voir tout en bas.*
 
-**Pourais-tu donnes quelques informations sur toi?** *Je suis se qu'on pourrais dire un "`bon vivant`". Je vis ma vie tranquillement. Je passe énormément de temps à améliorer mes compétences dans l'informatique. Je fais beaucoup de sport et j'entraine les futures générations. J'adore jouer au jeux vidéos pour me ressourcer après le boulot.*
+**Pourais-tu donnes quelques informations sur toi?** *Je suis se qu'on pourrais dire un "`bon vivant`". Je vis ma vie tranquillement. Je passe énormément de temps à améliorer mes compétences dans l'informatique. Je fais beaucoup de sport et j'entraine les futures générations. J'adore jouer au jeux vidéos pour me ressourcer après le boulot. Je sais me démerder. Face à un problème je fais de tout mon possible pour trouver la meilleur solution.*
 
 **Comment mieux te connaitre?** *Ne pas hésiter à me contacter pas email pour prévoir un appel discord. Ou si vous êtes en Valais, simplement autour d'un petit verre (je paie l'addition).*
 
 **Design?** *Oulala non! Mais je peux vous conseiller un excellent développeur très compétent en design (demande par mail).*
 
-**Faut-il avoir peur de t'engager?** *Oui. Car je ne bois pas de café comme un développeur devrait.*😁
+**Faut-il avoir peur de t'engager?** *Oui. Car je ne bois pas de café comme un développeur devrait.* 😁
 
-**Toi en un mot:** *Passionné*
+**Toi en un mot:** *Passionné!*
 
 ## Compétences
 
@@ -49,7 +47,7 @@ Je suis un junior (back-end) développeur. Je suis une formation d'apprenti info
 - PHP
   - Pur et dur
 - C#
-  - ASP NET
+  - ASP NET (+ Entity Framework)
   - WPF
 - GO (En train d'apprendre)
 - SQL (basique)
@@ -88,6 +86,7 @@ J'utilise beacoup d'outils différents. Voici une liste pas actégories:
 #### Open Source
 J'adore ça. Je participe comme je peux pour plusieurs projets. Si je pouvais travailler dans ce domaine se serait top.
 
+>L'open source est le plus beau cadeau d'un dévelopeur à un autre
 
 ### Langues
 - Français : Bon
@@ -104,7 +103,7 @@ Neptium c'est pour moi un énorme projet. Ca me demande un temps considérable. 
 
 **Les compétences de chacuns?** *Nous avons 2 développeurs full-stack (incroyablement doués en design), un excellent administrateur système / développeur et moi.*
 
-**Technologies utilisées?** *Principalement le JavaScript (AdonisJS, Edge, VueJS) et du PHP de temps en temps.*
+**Technologies utilisées?** *Principalement le JavaScript (AdonisJS, Edge, VueJS et React) et du PHP de temps en temps.*
 
 **Puis-je avoir plus de détails?** *Oui avec plaisir. Le site est [neptium.ch](https://www.neptium.ch/fr/).*
 
@@ -116,6 +115,8 @@ Neptium c'est pour moi un énorme projet. Ca me demande un temps considérable. 
 **[Twitter](https://twitter.com/lecreb/)**
 
 **[Mon site personnel](https://crbast.ch)**
+
+**[Stack Overflow](https://stackoverflow.com/users/9165517/crbast)**
 
 ## Me contacter 
 N'hésitez pas à me contacter en passant par mon site personnel ([crbast.ch](https://crbast.ch)). 
