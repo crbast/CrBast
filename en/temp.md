@@ -35,30 +35,30 @@ I am looking for a position in the field of application development (back-end) f
 
 **You in a nutshell:** *Passionate!*
 
-## Compétences
+## Skills
 
-### Programmation :
+### Dev :
 
 #### Languages
 - NodeJS 
   - AdonisJS💜
-  - NuxtJS (En train d'apprendre)
+  - NuxtJS (Learning)
 - PHP
   - Pur et dur
 - C#
   - ASP NET (+ Entity Framework)
   - WPF
-- GO (En train d'apprendre)
-- SQL (basique)
+- GO (Learning)
+- SQL (basics)
 
-#### Général
+#### General
 
-J'ai dévelopé plusieurs APIs (REST). Je me débrouille en automatisation (GitLab CICD) et tests unitaire.
+I have developed several APIs (REST). I'm good at automation (GitLab CICD) and unit testing.
 
-Mes différents projets sont sur mon GitLab et GitHub.
+All my projects are on my GitLab and GitHub.
 
-#### Outils
-J'utilise beacoup d'outils différents. Voici une liste pas actégories:
+#### Tools
+I use a lot of tools. Here is a list by category:
 
 **IDE:**
 - VS Code
@@ -69,9 +69,10 @@ J'utilise beacoup d'outils différents. Voici une liste pas actégories:
 - XAMPP
 - Laragon
 
-**Hébergeur:**
+**Hosting:**
 - Heroku
 - (Azure)
+- Neptium
 
 **Git (DevOps):**
 - GitHub
@@ -83,39 +84,39 @@ J'utilise beacoup d'outils différents. Voici une liste pas actégories:
 - Postman
 
 #### Open Source
-J'adore ça. Je participe comme je peux pour plusieurs projets. Si je pouvais travailler dans ce domaine se serait top.
+I love it. I'm involved in as many projects as I can. If I could work in this field it would be great.
 
-> L'open source est le plus beau cadeau d'un développeur à un autre
+> Open source is the greatest gift from one developer to another.
 
 ### Langues
-- Français : Bon
-- Anglais : Moyen. Actuellement en train de progresser...
+- French  : Good
+- English :  Average. Currently progressing...
 
-## Projets
+## Projects
 
 ### Neptium
-Neptium c'est pour moi un énorme projet. Ca me demande un temps considérable. Mais m'apporte énormement en compétences.
+Neptium is a huge project for me. It's taking up a lot of my time. But it brings me a wealth of skills.
 
-**Mais c'est quoi Neptium?** *Neptium c'est un projet mené par 4 apprentis ayant pour but de rassembler les compétences de chacuns pour déveloper des projets complexes.*
+**What the hell is Neptium?** *Neptium is a project led by 4 apprentices whose aim is to bring together the skills of each of them to develop complex projects.*
 
-**Ton rôle?** *Déveloper les différents services et APIs ainsi que ce qui touche au back-end. Je m'occupe aussi du CICD avec GitLab.*
+**Your job?** *Develop the different services and APIs as well as the back-end. I also take care of the CICD with GitLab.*
 
-**Les compétences de chacuns?** *Nous avons 2 développeurs full-stack (incroyablement doués en design), un excellent administrateur système / développeur et moi.*
+**Everyone's skills?** *We have 2 full-stack developers (incredibly talented in design), an excellent system administrator/developer and me.*
 
-**Technologies utilisées?** *Principalement le JavaScript (AdonisJS, Edge, VueJS et React) et du PHP de temps en temps.*
+**Technologies used?** *Mainly JavaScript (AdonisJS, Edge, (NuxtJS) VueJS and React) and PHP from time to time.*
 
-**Puis-je avoir plus de détails?** *Oui avec plaisir. Le site est [neptium.ch](https://www.neptium.ch/fr/).*
+**May I have more details?** *Yes with pleasure. The site is [neptium.ch](https://www.neptium.ch/en/).*
 
-## Liens intéressants
+## Interesting links
 **[GitHub](https://github.com/CrBast)**
 
 **[GitLab](https://gitlab.com/CrBast)**
 
 **[Twitter](https://twitter.com/lecreb/)**
 
-**[Mon site personnel](https://crbast.ch)**
+**[Personal website](https://crbast.ch)**
 
 **[Stack Overflow](https://stackoverflow.com/users/9165517/crbast)**
 
-## Me contacter 
-N'hésitez pas à me contacter en passant par mon site personnel ([crbast.ch](https://crbast.ch)). 
+## Contact me 
+Do not hesitate to contact me through my personal website ([crbast.ch](https://crbast.ch)). 
