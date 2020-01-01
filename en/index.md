@@ -121,4 +121,4 @@ Neptium is a huge project for me. It's taking up a lot of my time. But it brings
 **[Stack Overflow](https://stackoverflow.com/users/9165517/crbast)**
 
 ## Contact me 
-Do not hesitate to contact me through my personal website ([crbast.ch](https://crbast.ch). 
+Do not hesitate to contact me through my personal website ([crbast.ch](https://crbast.ch)). 
