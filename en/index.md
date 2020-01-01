@@ -65,7 +65,7 @@ I use a lot of tools. Here is a list by category:
 **IDE:**
 - VS Code
 - Visual Studio 2019
-- Suite JetBrains
+- JetBrains tools
 
 **Serveur:**
 - XAMPP
@@ -85,6 +85,9 @@ I use a lot of tools. Here is a list by category:
 - Insomnia REST
 - Postman
 
+**...**
+- DBeaver
+
 #### Open Source
 I love it. I'm involved in as many projects as I can. If I could work in this field it would be great.
 
@@ -97,9 +100,9 @@ I love it. I'm involved in as many projects as I can. If I could work in this fi
 ## Projects
 
 ### Neptium
-Neptium is a huge project for me. It's taking up a lot of my time. But it brings me a wealth of skills.
+Neptium is a huge project for me. It takes me a lot of time but brings me a lot of skills.
 
-**What the hell is Neptium?** *Neptium is a project led by 4 apprentices whose aim is to bring together the skills of each of them to develop complex projects.*
+**What's Neptium?** *Neptium is a project led by 4 apprentices whose aim is to bring together the skills of each of them to develop complex projects.*
 
 **Your job?** *Develop the different services and APIs as well as the back-end. I also take care of the CICD with GitLab.*
 
