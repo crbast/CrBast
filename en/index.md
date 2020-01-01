@@ -27,7 +27,7 @@ I am looking for a position in the field of application development (back-end) f
 
 **GitHub? GitLab? Twitter?** *Yes, see at the bottom.*
 
-**Pourais-tu donnes quelques informations sur toi?** *I live my life quietly. I spend a lot of time improving my computer skills. I do a lot of sports and train future generations. I love playing video games to recharge my batteries after work. I know how to do it. When faced with a problem I do my best to find the best solution.*
+**Could you give some information about yourself?** *I live my life quietly. I spend a lot of time improving my computer skills. I do a lot of sports and train future generations. I love playing video games to recharge my batteries after work. I know how to do it. When faced with a problem I do my best to find the best solution.*
 
 **How do I know you better?** *Do not hesitate to contact me by email to schedule a discordant call. Or if you're in Valais, just have a little drink (I pay the addition😄).*
 

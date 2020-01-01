@@ -25,7 +25,7 @@ Je recherche un poste dans le domaine du développement d'application (back-end)
 
 **GitHub? GitLab? Twitter?** *Oui voir tout en bas.*
 
-**Pourais-tu donnes quelques informations sur toi?** *Je suis se qu'on pourrais dire un "`bon vivant`". Je vis ma vie tranquillement. Je passe énormément de temps à améliorer mes compétences dans l'informatique. Je fais beaucoup de sport et j'entraine les futures générations. J'adore jouer au jeux vidéos pour me ressourcer après le boulot. Je sais me démerder. Face à un problème je fais tout mon possible pour trouver la meilleur solution.*
+**Pourais-tu donner quelques informations sur toi?** *Je suis se qu'on pourrais dire un "`bon vivant`". Je vis ma vie tranquillement. Je passe énormément de temps à améliorer mes compétences dans l'informatique. Je fais beaucoup de sport et j'entraine les futures générations. J'adore jouer au jeux vidéos pour me ressourcer après le boulot. Je sais me démerder. Face à un problème je fais tout mon possible pour trouver la meilleur solution.*
 
 **Comment mieux te connaitre?** *Ne pas hésiter à me contacter par email pour prévoir un appel discord. Ou si vous êtes en Valais, simplement autour d'un petit verre (je paie l'addition😄).*
 
