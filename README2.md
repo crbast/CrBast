@@ -18,7 +18,7 @@ Random dev guy
 
 <center>
 
-| [![Twitter](https://github.com/CrBast/CrBast/svg/twitter.svg)](https://twitter.com/LeCreb) |   |   |   |   |
+| ![[Twitter](https://twitter.com/LeCreb)|   |   |   |   |
 
 </center>
 
