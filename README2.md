@@ -1,7 +1,3 @@
-### Hi 👋
-
-Random dev guy
-
 <center>
     <a href="https://twitter.com/LeCreB"><img 
         style="fill: green;"
