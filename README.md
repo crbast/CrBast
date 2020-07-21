@@ -11,19 +11,22 @@
         width="40px" /></a> 
     <img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/blank.png" 
-        width="40px" />
+        width="40px"
+        href="#" />
     <a href="https://gitlab.com/CrBast"><img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/gitlab.svg" 
         width="40px" /></a>
     <img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/blank.png" 
-        width="40px" />
+        width="40px"
+        href="#" />
     <a href="https://crbast.ch/"><img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/user.svg" 
         width="40px" /></a>
     <img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/blank.png" 
-        width="40px" />
+        width="40px" 
+        href="#" />
     <a href="https://neptium.ch/"><img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/coffee.svg" 
         width="40px" /></a>   
