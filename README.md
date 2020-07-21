@@ -32,4 +32,8 @@
         width="40px" /></a>   
 </p>
 
-<h5>Yep I use blank image for elements spacing. You can't juge me, I'm not a front-end dev (that will always be my excuse 😜)</h5>
+<br>
+<br>
+<br>
+
+<h6>Yep I use blank image for elements spacing. You can't juge me, I'm not a front-end dev (that will always be my excuse 😜)</h6>
