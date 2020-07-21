@@ -31,3 +31,5 @@
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/coffee.svg" 
         width="40px" /></a>   
 </p>
+
+<h5>Yep I use blank image for elements spacing. You can't juge me, I'm not a front-end dev (that will always be my excuse 😜)</h5>
