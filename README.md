@@ -1,3 +1,3 @@
 ### Hi 👋
 
-Random dev guy
+Random developer
