@@ -8,9 +8,10 @@
                     justify-content: space-between;
                     margin: 0 auto;
                     padding: 10px 0;
+                    max-width: 350px;
                 }
 
-                span {
+                img {
                     width: 40px;
                 }
             </style>
