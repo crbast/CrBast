@@ -5,7 +5,7 @@
 
 ---
 
-<img src="links.svg" width="800" height="400">
+<img src="https://raw.githubusercontent.com/CrBast/CrBast/master/links.svg" width="800" height="400">
 
 <br>
 <br>
