@@ -1,12 +1,12 @@
 
 <h3 align="center">Hi 👋</h3>
 
-<h4 align="center">CrBast - Random developer</h4>
+<h4 align="center">crbast - random developer</h4>
 
 ---
 
 <p align="center">
-    <a href="https://twitter.com/LeCreB"><img 
+    <a href="https://twitter.com/_crbast"><img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/twitter.svg" 
         width="40px" /></a> 
     <a href=""><img 
