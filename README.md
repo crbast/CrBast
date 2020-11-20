@@ -44,4 +44,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crbast)](https://github.com/crbast)
 
+
+[![Years Badge](https://badges.pufler.dev/years/crbast)](https://badges.pufler.dev)
 ![](https://komarev.com/ghpvc/?username=crbast)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/crbast)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/elloow/elloow?label=Elloow+activity)](https://github.com/elloow)
