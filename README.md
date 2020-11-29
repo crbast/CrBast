@@ -5,6 +5,8 @@
 
 ---
 
+<br/>
+
 <p align="center">
     <a href="https://twitter.com/_crbast"><img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/twitter.svg" 
@@ -42,7 +44,35 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crbast)](https://github.com/crbast)
+
+
+## Some languages and tools I used 
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="75" />  
+</div>  
+
+<br>
+<br>
+<br>
+
+## GitHub stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crbast&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 
 [![Years Badge](https://badges.pufler.dev/years/crbast)](https://badges.pufler.dev)
