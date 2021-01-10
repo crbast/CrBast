@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<h6>Yep I use `&nbsp;` for elements spacing. You can't juge me, I'm not a front-end dev (that will always be my excuse 😜)</h6>
+*Yep I use `&nbsp;` for elements spacing. You can't juge me, I'm not a front-end dev (that will always be my excuse 😜)*
 
 <br>
 <br>
