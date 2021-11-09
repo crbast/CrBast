@@ -16,7 +16,7 @@
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/gitlab.svg" 
         width="40px" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://crbast.ch/"><img 
+    <a href="https://hello.crbast.ch/"><img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/user.svg" 
         width="40px" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
