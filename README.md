@@ -29,12 +29,6 @@
 <br>
 <br>
 
-*Yep I use `&nbsp;` for elements spacing. You can't juge me, I'm not a front-end dev (that will always be my excuse 😜)*
-
-<br>
-<br>
-<br>
-
 
 
 ## Some languages and tools I used 
