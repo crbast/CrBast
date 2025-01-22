@@ -8,10 +8,6 @@
 <br/>
 
 <p align="center">
-    <a href="https://twitter.com/_crbast"><img 
-        src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/twitter.svg" 
-        width="40px" /></a> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://gitlab.com/CrBast"><img 
         src="https://raw.githubusercontent.com/CrBast/CrBast/master/svg/gitlab.svg" 
         width="40px" /></a>
